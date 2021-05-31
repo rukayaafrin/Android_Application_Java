@@ -24,12 +24,12 @@ My Contribution:
 
 
 Delivered By, Team 9 from SA51 NUS-ISS:
-1. AFRIN Rukaya (A0113802W)
-2. CHAN Jian Liu (A0226741H)
-3. LIU Lei (A0214899L)
-4. RAMAKRISHNAN Niveditha (A0214867W)
-5. XIAO Changwei (A0226757U)
-6. ZHANG Hongduo (A0226744B)
-7. ZHOU Yanjun (A0226701N)
-8. ZHU Haokun (A0226723H)
+1. AFRIN Rukaya 
+2. CHAN Jian Liu 
+3. LIU Lei 
+4. RAMAKRISHNAN Niveditha 
+5. XIAO Changwei 
+6. ZHANG Hongduo 
+7. ZHOU Yanjun 
+8. ZHU Haokun
 

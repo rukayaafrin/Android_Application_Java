@@ -2,7 +2,7 @@
 A social media android application developed using Java. 
 
 Capstone Project: Single Parent Community Application. 
-This project has an Android component which is meant for users and a Web based component meant for admistrators. 
+This project has an Android component which is meant for users and a Web based component meant for administrators. 
 
 For Android App:
 1. Open and launch project on Android Studio
